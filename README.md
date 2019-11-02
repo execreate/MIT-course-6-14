@@ -1,8 +1,5 @@
 # MIT Bachelor of Science in Computer Science, Economics, and Data Science
-## Based on [course 6-14](http://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/ Computer Science, Economics, and Data Science)
-
-Taking only Departmental Programs.
-*********************************************
+Based on [course 6-14](http://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/ "Computer Science, Economics, and Data Science")
 
 ## Departamental program courses list:
 - [18.06 Linear algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
